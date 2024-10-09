@@ -24,3 +24,6 @@
 
 # -r
     Remove diretórios do staging
+
+# git commit 
+    Salva as mudanças feitas no staging, no repositório local
