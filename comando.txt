@@ -57,3 +57,6 @@
 
 # git merge
     Cria um commit que junta duas branchs
+
+# --no-ff
+    Força a criação de um commit mesmo que seja um merge fast forward
