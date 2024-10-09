@@ -20,4 +20,7 @@
     Remove arquivos do staging
 
 # --cached
-    Remove o arquivo do stagingsem apagar do repositório
+    Remove o arquivo do staging sem apagar do repositório
+
+# -r
+    Remove diretórios do staging
