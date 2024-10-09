@@ -48,3 +48,6 @@
 
 # git reset
     Refaz mudanças que estão no staging, mas ainda não foram commitadas
+
+# git revert 
+    Cria um novo commit que desfaz as mudanças anteriores
