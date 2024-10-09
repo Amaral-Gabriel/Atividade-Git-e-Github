@@ -60,3 +60,6 @@
 
 # --no-ff
     Força a criação de um commit mesmo que seja um merge fast forward
+
+# git rebase
+    Mistura os commits de duas branchs e os mistura de forma linear
