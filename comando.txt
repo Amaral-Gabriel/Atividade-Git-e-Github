@@ -16,3 +16,5 @@
 # git add
     Adiciona arquivos ao staging
 
+# git rm
+    Remove arquivos do staging
