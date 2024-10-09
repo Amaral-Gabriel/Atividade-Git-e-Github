@@ -42,3 +42,6 @@
 
 # git pull
     Atualiza um repositório local com um remoto
+
+# git checkout
+    Refaz as mudanças antes de serem adicionadas no staging
