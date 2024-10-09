@@ -39,3 +39,6 @@
 
 # git clone
     Clona um repositório remoto via HTTPS ou SSH Ref
+
+# git pull
+    Atualiza um repositório local com um remoto
