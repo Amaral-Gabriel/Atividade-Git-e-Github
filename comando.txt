@@ -54,3 +54,6 @@
 
 # git branch    
     Cria uma branch
+
+# git merge
+    Cria um commit que junta duas branchs
