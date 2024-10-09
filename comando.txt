@@ -12,4 +12,7 @@
 
 # git status   
     Mostra a branch atual e possívies commits
-    
+
+# git add
+    Adiciona arquivos ao staging
+
