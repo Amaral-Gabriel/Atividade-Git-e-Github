@@ -3,3 +3,6 @@
 
 # git config
     Altera as informações do usuário no commit
+
+# --global
+    Altera as informações do usuário em todo o repositório
