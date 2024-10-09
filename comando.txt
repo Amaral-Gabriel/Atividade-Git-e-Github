@@ -44,4 +44,7 @@
     Atualiza um repositório local com um remoto
 
 # git checkout
-    Refaz as mudanças antes de serem adicionadas no staging
+    Desfaz as mudanças antes de serem adicionadas no staging
+
+# git reset
+    Refaz mudanças que estão no staging, mas ainda não foram commitadas
