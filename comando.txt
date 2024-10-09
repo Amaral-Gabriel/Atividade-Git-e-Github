@@ -27,3 +27,6 @@
 
 # git commit 
     Salva as mudanças feitas no staging, no repositório local
+
+# -m
+    Adiciona uma mensagem ao commit
