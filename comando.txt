@@ -63,3 +63,6 @@
 
 # git rebase
     Mistura os commits de duas branchs e os mistura de forma linear
+
+# git abort
+    Cancela um merge e volta ao estado anterior
