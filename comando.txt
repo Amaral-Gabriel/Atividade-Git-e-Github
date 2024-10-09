@@ -9,3 +9,7 @@
 
 # git init
     inicializa um novo repositório
+
+# git status   
+    Mostra a branch atual e possívies commits
+    
