@@ -30,3 +30,6 @@
 
 # -m
     Adiciona uma mensagem ao commit
+
+# git remote
+    Referencia o repositório local com o remoto
