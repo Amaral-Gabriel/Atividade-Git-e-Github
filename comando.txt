@@ -18,3 +18,6 @@
 
 # git rm
     Remove arquivos do staging
+
+# --cached
+    Remove o arquivo do stagingsem apagar do repositório
