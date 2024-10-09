@@ -6,3 +6,6 @@
 
 # --global
     Altera as informações do usuário em todo o repositório
+
+# git init
+    inicializa um novo repositório
