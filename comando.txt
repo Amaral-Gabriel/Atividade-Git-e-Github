@@ -33,3 +33,6 @@
 
 # git remote
     Referencia o repositório local com o remoto
+
+# git push
+    Manda as modificações feitas no repositório local para o remoto
