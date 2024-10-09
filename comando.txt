@@ -51,3 +51,6 @@
 
 # git revert 
     Cria um novo commit que desfaz as mudanças anteriores
+
+# git branch    
+    Cria uma branch
