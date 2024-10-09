@@ -36,3 +36,6 @@
 
 # git push
     Manda as modificações feitas no repositório local para o remoto
+
+# git clone
+    Clona um repositório remoto via HTTPS ou SSH Ref
