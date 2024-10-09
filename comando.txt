@@ -1,2 +1,5 @@
 # git version
     Verifica a versão intalada na maquina
+
+# git config
+    Altera as informações do usuário no commit
