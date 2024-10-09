@@ -44,7 +44,7 @@
     Atualiza um repositório local com um remoto
 
 # git checkout
-    Desfaz as mudanças antes de serem adicionadas no staging
+    Desfaz as mudanças antes de serem adicionadas no staging. E também pode ser usada com o -b que cria e entra em uma branch
 
 # git reset
     Refaz mudanças que estão no staging, mas ainda não foram commitadas
