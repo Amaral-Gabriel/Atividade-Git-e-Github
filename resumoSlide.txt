@@ -70,3 +70,6 @@
 
 ## Slide 8
     O slide 8 mostra alguns conceitos do Git
+
+## Slide 9 
+    O slide 9 mostar como configurar o Git
