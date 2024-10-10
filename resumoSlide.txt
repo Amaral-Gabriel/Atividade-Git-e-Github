@@ -25,3 +25,6 @@
 
 ## Slide 9
     O slide  9 traz o conceito de Milestones e Cômite de controle de mudança
+
+## Slide 10
+    O slide 10 mostra que o  Github ja implementa uma parte dos conceitos do SCM
