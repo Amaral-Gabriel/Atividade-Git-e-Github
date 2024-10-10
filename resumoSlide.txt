@@ -73,3 +73,6 @@
 
 ## Slide 9 
     O slide 9 mostar como configurar o Git
+
+## Slide 10 
+    O slide 10 mostra como criar um repositório e verificar seu status 
