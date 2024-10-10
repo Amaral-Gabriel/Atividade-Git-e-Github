@@ -43,3 +43,9 @@
 
 ## Slide 15 
     O slide 15 fala das desvantagens de não se usar o controle de versão
+
+
+
+# Aula 2
+## Slide 1
+    O slide 1 fala sobre versionamento e suas tecnologias
