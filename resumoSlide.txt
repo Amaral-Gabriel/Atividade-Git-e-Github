@@ -52,3 +52,6 @@
 
 ## Slide 2 
     O slide 2 cita algumas ferramentas de versionamento
+
+## Slide 3
+    O slide 3 fala sobre a ferramenta Git
