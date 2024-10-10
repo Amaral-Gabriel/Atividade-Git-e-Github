@@ -34,3 +34,6 @@
 
 ## Slide 12
     O slide 12 mostra a teoria do controle de versão
+
+## Slide 13
+    O slide 13 fala sobre as ferramentas de controle de versão
