@@ -13,3 +13,6 @@
 
 ## Slide 5
     O slide 5 mostra alguns conceitos do SCM
+
+## Slide 6
+    O slide 6 mostra quais os efeitos do SCM
