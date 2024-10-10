@@ -10,3 +10,6 @@
 
 ## Slide 4
     O slide 4 fala sobre a história do SCM
+
+## Slide 5
+    O slide 5 mostra alguns conceitos do SCM
