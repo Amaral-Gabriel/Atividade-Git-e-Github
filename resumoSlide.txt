@@ -93,4 +93,7 @@
     O slide 15 tem algumas imagens sobre "sair do Vim"
 
 ## Slide 16 
-    O slide 16 mostra como conectar remoto para o local 
+    O slide 16 mostra como conectar local para o remoto
+
+## Slide 17
+    O slide 17 mostra como conectar o remoto para o local
