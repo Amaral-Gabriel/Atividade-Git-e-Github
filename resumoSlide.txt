@@ -67,3 +67,6 @@
 
 ## Slide 7
     O slide 7 fala sobre a integração do Github com o VScode
+
+## Slide 8
+    O slide 8 mostra alguns conceitos do Git
