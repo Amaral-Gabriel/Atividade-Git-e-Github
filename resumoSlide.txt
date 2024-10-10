@@ -55,3 +55,6 @@
 
 ## Slide 3
     O slide 3 fala sobre a ferramenta Git
+
+## Slide 4
+    O slide 4 explica com baixar o Git
