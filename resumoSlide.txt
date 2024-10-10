@@ -8,3 +8,5 @@
 ## Slide 3
     O Slide 3 mostra alguns dos artefatos do SCM
 
+## Slide 4
+    O slide 4 fala sobre a história do SCM
