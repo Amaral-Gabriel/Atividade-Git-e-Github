@@ -103,3 +103,6 @@
 
 ## Slide 19
     O slide 19 mostra que é possível faze um clone do repositório
+
+## Sldie 20
+    O slide 20 mostra comandos para desfazer mudanças
