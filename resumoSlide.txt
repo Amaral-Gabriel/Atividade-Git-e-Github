@@ -49,3 +49,6 @@
 # Aula 2
 ## Slide 1
     O slide 1 fala sobre versionamento e suas tecnologias
+
+## Slide 2 
+    O slide 2 cita algumas ferramentas de versionamento
