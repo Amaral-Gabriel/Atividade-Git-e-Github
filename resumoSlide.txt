@@ -64,3 +64,6 @@
 
 ## Slide 6
     O slide 6 fala sobre o Github
+
+## Slide 7
+    O slide 7 fala sobre a integração do Github com o VScode
