@@ -85,3 +85,6 @@
 
 ## Slide 13 
     O slide 13 mostra comando para remover arquivos do staging
+
+## Slide 14
+    O slide 14 mostra como se criar um commit
