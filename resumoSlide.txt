@@ -40,3 +40,6 @@
 
 ## Slide 14 
     O slide 14 ala sobre repositórios, diretórios e históricos de versão
+
+## Slide 15 
+    O slide 15 fala das desvantagens de não se usar o controle de versão
