@@ -1,0 +1,68 @@
+# git version
+    Verifica a versão intalada na maquina
+
+# git config
+    Altera as informações do usuário no commit
+
+# --global
+    Altera as informações do usuário em todo o repositório
+
+# git init
+    inicializa um novo repositório
+
+# git status   
+    Mostra a branch atual e possívies commits
+
+# git add
+    Adiciona arquivos ao staging
+
+# git rm
+    Remove arquivos do staging
+
+# --cached
+    Remove o arquivo do staging sem apagar do repositório
+
+# -r
+    Remove diretórios do staging
+
+# git commit 
+    Salva as mudanças feitas no staging, no repositório local
+
+# -m
+    Adiciona uma mensagem ao commit
+
+# git remote
+    Referencia o repositório local com o remoto
+
+# git push
+    Manda as modificações feitas no repositório local para o remoto
+
+# git clone
+    Clona um repositório remoto via HTTPS ou SSH Ref
+
+# git pull
+    Atualiza um repositório local com um remoto
+
+# git checkout
+    Desfaz as mudanças antes de serem adicionadas no staging. E também pode ser usada com o -b que cria e entra em uma branch e para se mover entre branchs
+
+# git reset
+    Refaz mudanças que estão no staging, mas ainda não foram commitadas
+
+# git revert 
+    Cria um novo commit que desfaz as mudanças anteriores
+
+# git branch    
+    Cria uma branch
+
+# git merge
+    Cria um commit que junta duas branchs
+
+# --no-ff
+    Força a criação de um commit mesmo que seja um merge fast forward
+
+# git rebase
+    Mistura os commits de duas branchs e os mistura de forma linear
+
+# git abort
+    Cancela um merge e volta ao estado anterior
