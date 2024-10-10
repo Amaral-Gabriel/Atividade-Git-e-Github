@@ -58,3 +58,6 @@
 
 ## Slide 4
     O slide 4 explica com baixar o Git
+
+## Slide 5
+    O slide 5 mostra alguns serviços de hospedagem do Git
