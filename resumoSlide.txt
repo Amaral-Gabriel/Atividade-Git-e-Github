@@ -5,3 +5,6 @@
 ## Slide 2
     O slide 2 introduz alguns conceitos de software
 
+## Slide 3
+    O Slide 3 mostra alguns dos artefatos do SCM
+
