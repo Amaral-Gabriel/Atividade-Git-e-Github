@@ -19,3 +19,6 @@
 
 ## Slide 7
     O slide 7 apresenta o conceito de Controle de Mudança
+
+## Slide 8
+     O slide  8 traz o conceito de Issue e Issue Track
