@@ -61,3 +61,6 @@
 
 ## Slide 5
     O slide 5 mostra alguns serviços de hospedagem do Git
+
+## Slide 6
+    O slide 6 fala sobre o Github
