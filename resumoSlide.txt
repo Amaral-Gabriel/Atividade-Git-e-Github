@@ -1,3 +1,7 @@
 # Aula 1
 ## Slide 1
     O slide 1 trata do  SCM, introduzindo e mostrando sua importância
+
+## Slide 2
+    O slide 2 introduz alguns conceitos de software
+
