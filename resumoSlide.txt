@@ -16,3 +16,6 @@
 
 ## Slide 6
     O slide 6 mostra quais os efeitos do SCM
+
+## Slide 7
+    O slide 7 apresenta o conceito de Controle de Mudança
