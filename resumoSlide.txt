@@ -22,3 +22,6 @@
 
 ## Slide 8
      O slide  8 traz o conceito de Issue e Issue Track
+
+## Slide 9
+    O slide  9 traz o conceito de Milestones e Cômite de controle de mudança
