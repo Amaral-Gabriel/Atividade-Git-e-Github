@@ -28,3 +28,6 @@
 
 ## Slide 10
     O slide 10 mostra que o  Github ja implementa uma parte dos conceitos do SCM
+
+## Slide  11 
+    O slide 11 mostra as desvantagens de não usar o SCM
