@@ -79,3 +79,6 @@
 
 ## Slide 11 
     O slide 11 mo como criar um repositório pelo Github
+
+## Slide 12 
+    O slide 12 mostra comandos para adicionar arqqquivos ao staging
