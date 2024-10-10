@@ -100,3 +100,6 @@
 
 ## Slide 18 
     O slide 18 mostra os comanos para atualizar os repositórios
+
+## Slide 19
+    O slide 19 mostra que é possível faze um clone do repositório
