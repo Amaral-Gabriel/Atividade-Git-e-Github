@@ -97,3 +97,6 @@
 
 ## Slide 17
     O slide 17 mostra como conectar o remoto para o local
+
+## Slide 18 
+    O slide 18 mostra os comanos para atualizar os repositórios
