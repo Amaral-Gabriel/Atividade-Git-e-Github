@@ -140,3 +140,5 @@
 ## Slide 31
     O slide 31 fala sobre boas práticas nos commits
 
+## Slide 32
+    O slide 32 mostra a diferença da utilização das boas práticas
