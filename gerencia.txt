@@ -17,3 +17,7 @@ Issues possuem alguns atributos que podem ser obrigatórios ou opcionais, como p
 # Milestones
 
 São checkpoints do projeto que são compostos de Issues agrupadas, e serve para medir o avano do desenvolvimento
+
+# Controle de versão
+
+São ferramentas que ajudam o sistema ser legível e rastreavel em caso de problemas, atarvez de um sistema que guarda informações a cada alteração
