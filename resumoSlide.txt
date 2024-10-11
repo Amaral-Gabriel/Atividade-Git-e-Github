@@ -148,3 +148,6 @@
 
 ## Slide 34
     O slide 34 fala sobre Workflows, fluxo centralizado e fluxo com feature branchs
+
+## Slide 35
+    O slide 35 ainda sobre Workflows, fala sobre fluxo com bifurcação 
