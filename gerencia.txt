@@ -5,3 +5,8 @@ O SCM é um conjunto de ferramentas e práticas, que auxiliam no desenvolvimento
 # Controle de Mudança
 
 Basicamente é ele que verifica a questões de possíveis alterações no software. Serve para garantir que o software nao saia do "trilho"
+
+# Issue Track
+ 
+É o sistema usado para gerenciar possíveis mudanças/melhorias/correções encontradas por membros da equipe
+
