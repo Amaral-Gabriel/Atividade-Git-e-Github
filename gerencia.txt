@@ -13,3 +13,7 @@ Basicamente é ele que verifica a questões de possíveis alterações no softwa
 # Issue 
 
 Issues possuem alguns atributos que podem ser obrigatórios ou opcionais, como por exemplo: Título, Descrição, Atribuição (obrigatórios) e Prioridade, Labels (opcionais)
+
+# Milestones
+
+São checkpoints do projeto que são compostos de Issues agrupadas, e serve para medir o avano do desenvolvimento
