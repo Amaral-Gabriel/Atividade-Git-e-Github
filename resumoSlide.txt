@@ -109,3 +109,6 @@
 
 ## Slide 21
     O slide 21 explica o que são branchs e como cria-las
+
+## Slide 22
+    O slide 22 mostra comando para navegar entre as branchs
