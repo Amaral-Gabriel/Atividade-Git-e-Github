@@ -118,3 +118,6 @@
 
 ## Slide 24
     O slide 24 explica o conceito do fast forward e o comando para forçar o commit
+
+## Slide 25
+    O slide 25 fala sobre o conceito do rebase e o comando
