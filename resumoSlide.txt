@@ -1,0 +1,156 @@
+# Aula 1
+## Slide 1
+    O slide 1 trata do  SCM, introduzindo e mostrando sua importância
+
+## Slide 2
+    O slide 2 introduz alguns conceitos de software
+
+## Slide 3
+    O Slide 3 mostra alguns dos artefatos do SCM
+
+## Slide 4
+    O slide 4 fala sobre a história do SCM
+
+## Slide 5
+    O slide 5 mostra alguns conceitos do SCM
+
+## Slide 6
+    O slide 6 mostra quais os efeitos do SCM
+
+## Slide 7
+    O slide 7 apresenta o conceito de Controle de Mudança
+
+## Slide 8
+     O slide  8 traz o conceito de Issue e Issue Track
+
+## Slide 9
+    O slide  9 traz o conceito de Milestones e Cômite de controle de mudança
+
+## Slide 10
+    O slide 10 mostra que o  Github ja implementa uma parte dos conceitos do SCM
+
+## Slide  11 
+    O slide 11 mostra as desvantagens de não usar o SCM
+
+## Slide 12
+    O slide 12 mostra a teoria do controle de versão
+
+## Slide 13
+    O slide 13 fala sobre as ferramentas de controle de versão
+
+## Slide 14 
+    O slide 14 ala sobre repositórios, diretórios e históricos de versão
+
+## Slide 15 
+    O slide 15 fala das desvantagens de não se usar o controle de versão
+
+
+
+# Aula 2
+## Slide 1
+    O slide 1 fala sobre versionamento e suas tecnologias
+
+## Slide 2 
+    O slide 2 cita algumas ferramentas de versionamento
+
+## Slide 3
+    O slide 3 fala sobre a ferramenta Git
+
+## Slide 4
+    O slide 4 explica com baixar o Git
+
+## Slide 5
+    O slide 5 mostra alguns serviços de hospedagem do Git
+
+## Slide 6
+    O slide 6 fala sobre o Github
+
+## Slide 7
+    O slide 7 fala sobre a integração do Github com o VScode
+
+## Slide 8
+    O slide 8 mostra alguns conceitos do Git
+
+## Slide 9 
+    O slide 9 mostar como configurar o Git
+
+## Slide 10 
+    O slide 10 mostra como criar um repositório e verificar seu status 
+
+## Slide 11 
+    O slide 11 mo como criar um repositório pelo Github
+
+## Slide 12 
+    O slide 12 mostra comandos para adicionar arqqquivos ao staging
+
+## Slide 13 
+    O slide 13 mostra comando para remover arquivos do staging
+
+## Slide 14
+    O slide 14 mostra como se criar um commit
+
+## Slide 15
+    O slide 15 tem algumas imagens sobre "sair do Vim"
+
+## Slide 16 
+    O slide 16 mostra como conectar local para o remoto
+
+## Slide 17
+    O slide 17 mostra como conectar o remoto para o local
+
+## Slide 18 
+    O slide 18 mostra os comanos para atualizar os repositórios
+
+## Slide 19
+    O slide 19 mostra que é possível faze um clone do repositório
+
+## Sldie 20
+    O slide 20 mostra comandos para desfazer mudanças
+
+## Slide 21
+    O slide 21 explica o que são branchs e como cria-las
+
+## Slide 22
+    O slide 22 mostra comando para navegar entre as branchs
+    
+## Slide 23
+    O slide 23 explica o que é o merge e como ele funciona
+
+## Slide 24
+    O slide 24 explica o conceito do fast forward e o comando para forçar o commit
+
+## Slide 25
+    O slide 25 fala sobre o conceito do rebase e o comando
+
+## Slide 26
+    O slide 26 fala sobre conflitos e como funciona
+
+## Slide 27
+    O slide 27 mostra uma forma de resolver conflitos
+
+## Slide 28
+    O slide 28 mostra outra forma de resolver conflitos
+
+## Slide 29
+    O slide 29 mostra uma terceira forma de resolver conflitos
+
+## Slide 30
+    O slide 30 fala do conceito de Merge Request e Pull Request
+
+## Slide 31
+    O slide 31 fala sobre boas práticas nos commits
+
+## Slide 32
+    O slide 32 mostra a diferença da utilização das boas práticas
+
+## Slide 33
+    O slide 33 também fala sobre boas práticas
+
+## Slide 34
+    O slide 34 fala sobre Workflows, fluxo centralizado e fluxo com feature branchs
+
+## Slide 35
+    O slide 35 ainda sobre Workflows, fala sobre fluxo com bifurcação
+    
+## Slide 36
+    O slide 36 fala sobre Git Remote e dá alguns comandos sobre ele
