@@ -21,3 +21,7 @@ São checkpoints do projeto que são compostos de Issues agrupadas, e serve para
 # Controle de versão
 
 São ferramentas que ajudam o sistema ser legível e rastreavel em caso de problemas, atarvez de um sistema que guarda informações a cada alteração
+
+# Versionamento
+
+É o sistema  que permite alterações no software de maneira que não hajam problemas
