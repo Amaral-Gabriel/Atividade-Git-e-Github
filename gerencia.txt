@@ -2,3 +2,6 @@
 
 O SCM é um conjunto de ferramentas e práticas, que auxiliam no desenvolvimento de um software. Ele atua como um facilitador em todo o processo de desenvolvimento, garantindo uma escalabilidade do software a cada etapa de desenvolvimento, mantendo-o estável e seguro. Ele deve ter a participação de toda a equipe envolvida.
 
+# Controle de Mudança
+
+Basicamente é ele que verifica a questões de possíveis alterações no software. Serve para garantir que o software nao saia do "trilho"
