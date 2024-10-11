@@ -136,3 +136,7 @@
 
 ## Slide 30
     O slide 30 fala do conceito de Merge Request e Pull Request
+
+## Slide 31
+    O slide 31 fala sobre boas práticas nos commits
+
