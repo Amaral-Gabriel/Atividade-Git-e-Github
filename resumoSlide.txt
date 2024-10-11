@@ -150,4 +150,7 @@
     O slide 34 fala sobre Workflows, fluxo centralizado e fluxo com feature branchs
 
 ## Slide 35
-    O slide 35 ainda sobre Workflows, fala sobre fluxo com bifurcação 
+    O slide 35 ainda sobre Workflows, fala sobre fluxo com bifurcação
+    
+## Slide 36
+    O slide 36 fala sobre Git Remote e dá alguns comandos sobre ele
