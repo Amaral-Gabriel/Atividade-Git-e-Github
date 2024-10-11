@@ -127,3 +127,6 @@
 
 ## Slide 27
     O slide 27 mostra uma forma de resolver conflitos
+
+## Slide 28
+    O slide 28 mostra outra forma de resolver conflitos
