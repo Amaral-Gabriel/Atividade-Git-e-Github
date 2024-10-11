@@ -112,3 +112,6 @@
 
 ## Slide 22
     O slide 22 mostra comando para navegar entre as branchs
+    
+## Slide 23
+    O slide 23 explica o que é o merge e como ele funciona
