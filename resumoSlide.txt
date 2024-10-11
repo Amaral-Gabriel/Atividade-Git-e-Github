@@ -121,3 +121,6 @@
 
 ## Slide 25
     O slide 25 fala sobre o conceito do rebase e o comando
+
+## Slide 26
+    O slide 26 fala sobre conflitos e como funciona
