@@ -1,0 +1,27 @@
+# SCM
+
+O SCM é um conjunto de ferramentas e práticas, que auxiliam no desenvolvimento de um software. Ele atua como um facilitador em todo o processo de desenvolvimento, garantindo uma escalabilidade do software a cada etapa de desenvolvimento, mantendo-o estável e seguro. Ele deve ter a participação de toda a equipe envolvida.
+
+# Controle de Mudança
+
+Basicamente é ele que verifica a questões de possíveis alterações no software. Serve para garantir que o software nao saia do "trilho"
+
+# Issue Track
+ 
+É o sistema usado para gerenciar possíveis mudanças/melhorias/correções encontradas por membros da equipe
+
+# Issue 
+
+Issues possuem alguns atributos que podem ser obrigatórios ou opcionais, como por exemplo: Título, Descrição, Atribuição (obrigatórios) e Prioridade, Labels (opcionais)
+
+# Milestones
+
+São checkpoints do projeto que são compostos de Issues agrupadas, e serve para medir o avano do desenvolvimento
+
+# Controle de versão
+
+São ferramentas que ajudam o sistema ser legível e rastreavel em caso de problemas, atarvez de um sistema que guarda informações a cada alteração
+
+# Versionamento
+
+É o sistema  que permite alterações no software de maneira que não hajam problemas
