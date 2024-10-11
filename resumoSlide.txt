@@ -130,3 +130,6 @@
 
 ## Slide 28
     O slide 28 mostra outra forma de resolver conflitos
+
+## Slide 29
+    O slide 29 mostra uma terceira forma de resolver conflitos
