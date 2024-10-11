@@ -133,3 +133,6 @@
 
 ## Slide 29
     O slide 29 mostra uma terceira forma de resolver conflitos
+
+## Slide 30
+    O slide 30 fala do conceito de Merge Request e Pull Request
