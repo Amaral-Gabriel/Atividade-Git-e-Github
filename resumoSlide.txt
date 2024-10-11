@@ -146,3 +146,5 @@
 ## Slide 33
     O slide 33 também fala sobre boas práticas
 
+## Slide 34
+    O slide 34 fala sobre Workflows, fluxo centralizado e fluxo com feature branchs
