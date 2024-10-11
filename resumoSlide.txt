@@ -124,3 +124,6 @@
 
 ## Slide 26
     O slide 26 fala sobre conflitos e como funciona
+
+## Slide 27
+    O slide 27 mostra uma forma de resolver conflitos
